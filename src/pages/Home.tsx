@@ -1,5 +1,6 @@
 import { useParams } from "react-router";
 import Body from "../components/Body";
+import { Else } from "../components/Else";
 import Header from "../components/Header";
 import SliderBar from "../components/SliderBar";
 
@@ -15,7 +16,7 @@ function Home(){
             <Header/>
             <main className="h-full pt-[60px] flex">
                 <SliderBar active={`${slug}`}/>
-                {slug ? <Body categoriaSlug={slug}/> : <div>ERRO!!</div>}
+                {slug ? <Body categoriaSlug={slug}/> : <Else/>}
                 {/* Enviando slug via props pelo componente Body */}
             </main>
         </div>
