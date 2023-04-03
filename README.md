@@ -9,10 +9,10 @@
 <a href="https://www.linkedin.com/in/aristoteles-aleves-de-oliveira-ab8089226/" target="_blank" rel="noopener noreferrer">
 <img alt="Feito por" src="https://img.shields.io/badge/Feito%20por-Arist%C3%B3teles-green"> 
 </a>
-<a href="https://github.com/AristotelesAlves/Authentication_GitHub/commits/main">
+<a href="https://github.com/AristotelesAlves/Vitrine_afiliado/commits/main">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AristotelesAlves/Authentication_GitHub?color=green">
 </a>
-<a href="https://github.com/AristotelesAlves/Authentication_GitHub/issues">
+<a href="https://github.com/AristotelesAlves/Vitrine_afiliado/issues">
 <img alt="Repository issues" src="https://img.shields.io/github/issues/AristotelesAlves/Authentication_GitHub?color=green">
 </a>
 </p>
@@ -22,9 +22,8 @@
 Pensando em divulgar todos meu link que eu tenho afiliado, resolvi criar uma vrtine bem simples com todos os meus afiliado.
 O gerenciamento dos link foi feito Com o Hygraph um CMS GraphQL Headless, onde eu adiciono ou removo os afiliado da vitrine.
 
-# Hygraph
+<h1>Hygraph</h1>
 ![image 1](https://user-images.githubusercontent.com/103201579/229379623-213d1b9a-b55c-45b0-826b-c49612405443.png)
-
 
 ## 🚀 Tecnologias
 
