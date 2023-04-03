@@ -22,8 +22,13 @@
 Pensando em divulgar todos meu link que eu tenho afiliado, resolvi criar uma vrtine bem simples com todos os meus afiliado.
 O gerenciamento dos link foi feito Com o Hygraph um CMS GraphQL Headless, onde eu adiciono ou removo os afiliado da vitrine.
 
-<h1>Hygraph</h1>
+# Hygraph
+
 ![image 1](https://user-images.githubusercontent.com/103201579/229379623-213d1b9a-b55c-45b0-826b-c49612405443.png)
+
+# Vitrine
+
+![image 2](https://user-images.githubusercontent.com/103201579/229393791-cbda6b5b-2cc4-4251-9a70-3c1b8f96f538.png)
 
 ## 🚀 Tecnologias
 
@@ -58,9 +63,9 @@ $ git clone https://github.com/AristotelesAlves/Vitrine_afiliado.git && cd Vitri
 
 $ npm install
 
-# Altere suas variáveis ambiente em .env, que são geradas em https://github.com/settings/developers:
+# Altere suas variáveis ambiente com API Hygraph
 
-$ GITHUB_CLIENT_SECRET e GITHUB_CLIENT_ID
+$ VITE_API_URL
 
 # Para inicializar o projeto:
 
@@ -68,11 +73,7 @@ $ npm run dev
 
 # Visite no seu navegador:
 
-$ http://localhost:4000/github
-
-# Com token gerado, faça o POST { code:"token_gerado" }:
-
-$ http://localhost:4000/authenticate
+$ http://localhost:5173/
 
 # Muito bem, o projeto está funcionando!
 ```
