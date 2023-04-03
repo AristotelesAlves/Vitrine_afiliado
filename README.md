@@ -5,7 +5,7 @@
 <p align="center">Vitrine de afiliado - Divulgar todos os links que tenho afiliado em um site só</p>
 
 <p align="center">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AristotelesAlves/Authentication_GitHub?color=green">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AristotelesAlves/Vitrine_afiliado?color=green">
 <a href="https://www.linkedin.com/in/aristoteles-aleves-de-oliveira-ab8089226/" target="_blank" rel="noopener noreferrer">
 <img alt="Feito por" src="https://img.shields.io/badge/Feito%20por-Arist%C3%B3teles-green"> 
 </a>
